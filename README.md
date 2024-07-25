@@ -23,6 +23,8 @@ The United States Postal Service (USPS) aims to increase knowledge about how wea
 <strong>Package_Notebooks</strong>
 <ol>
   <li>Package_EDA.ipynb - Exploratory Data Analysis on USPS Packages</li>
+  <li>package_scans_cleaned.ipynb - Data Conditioning on the Package Scans Data</li>
+  <li>package_data_final.ipynb - Data Conditioning to combine package and weather data</li>
   <li>MODEL_EXPLORATION.ipynb - Assesses a Random Forest, XGBoost, Gradient Boosting, LightGBM, CatBoost, Neural Network, and Naive Bayes model on the USPS Package Data</li>
   <li>RF&XG_REGRESSOR_MODEL.ipynb - Assesses a Random Forest Regressor and XGB Regressor Model on the USPS Package Data</li>
   <li>XGBOOST_USPS_Packages.ipynb - Assesses a XGBoost model on the USPS Package Data</li>
